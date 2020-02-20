@@ -3,7 +3,7 @@
 An word-typing game that allows you to improve your typing speed by racing against the clock. Can you get the highest score?
 
 ## Languages and Frameworks
-* Front-End
+## Front-End
 * CSS
 * HTML
 * JavaScript
