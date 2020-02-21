@@ -1,9 +1,11 @@
 # Speed Counter
 
-An word-typing game that allows you to improve your typing speed by racing against the clock. Can you get the highest score?
+A word-typing game that allows the user to improve their typing speed by racing against the clock. Can you get the highest score?
+
+Want to check out how the application looks? Video demo available here: https://youtu.be/UH5Ryo_468U
 
 ## Languages and Frameworks
-## Front-End
+### Front-End
 * CSS
 * HTML
 * JavaScript
